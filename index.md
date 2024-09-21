@@ -35,3 +35,39 @@ I created a collage on canva to give myself a  loose idea of what I wanted the g
 To start the project, I used a  Css grid layout generator https://grid.layoutit.com/ to automatically generate the code for the game’s layout. 
 
 To create the icons for the the game’s buttons I started drawing on  the  Procreate editor app but drawing the art  well enough to use ass icons. I started using Canva to find visuals suitable for game buttons and make minor adjustment to color and size. Next I  created the game buttons by using the  button class  in the specific section of the grid layout I created.
+
+Once the layout was ready and the visuals were in place, I started with the actual game mechanics. This was where things got a bit tricky because while I had a clear vision of what I wanted the game to look like, translating that into functional code was a whole different story.
+
+To implement the game logic, I used JavaScript (as instructed), which I was still not completely familiar with. I started with the most essential part of the game: the score counter. 
+
+I wrote a simple function that would update the score each time the washing machine was clicked:
+
+    function startItemTimer(item) {
+     if (itemTimers[item]) clearInterval(itemTimers[item]);
+      itemTimers[item] = setInterval(() => {
+         score += itemIncrements[item];
+         document.getElementById('score').innerText = 
+         `Score: ${score}`;
+    }, itemIntervals[item]);
+    }
+
+With this code, the timers would kick in whenever a player bought an item. It took some trial and error (and a lot of random bugs), but I eventually got it working.
+
+After the mechanics were in place, I focused on making the game more user-friendly. I added tooltips to show players what each item did and how much it cost. If you hovered over a button, you’d see something like “Detergent Pod - Price: 10 - Increases score by 1 every 3 seconds.” This made it easier to decide which items to buy and added a bit of strategy to the game.
+
+I also used some background music using Howler.js and created a mute button. It was a small touch but made the game feel more complete.
+
+
+      let bgMusic = new Howl({
+         src: ['Viktor Kraus - Blueberries.mp3'],
+        autoplay: true,
+        volume: 0.10,
+        loop: true
+            });
+    function muteMusic() {
+        bgMusic.pause();
+            }
+
+By the end, Pastel Washing was a functional clicker game with a chill laundry theme. It was a fun project that taught me a lot about JavaScript, CSS, and why I should always have a backup plan for bugs. While it’s far from perfect, building it was more enjoyable than I thought it’d be.
+
+Would I choose a different name if I did it again? Absolutely. But for now, I’m happy with what I’ve created — bugs, confusing code, and all.            
