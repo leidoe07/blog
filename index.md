@@ -34,6 +34,8 @@ I created a collage on canva to give myself a  loose idea of what I wanted the g
 
 To start the project, I used a  Css grid layout generator https://grid.layoutit.com/ to automatically generate the code for the game’s layout. 
 
+![picture of the layout](picoflayout.png)
+
 To create the icons for the the game’s buttons I started drawing on  the  Procreate editor app but drawing the art  well enough to use ass icons. I started using Canva to find visuals suitable for game buttons and make minor adjustment to color and size. Next I  created the game buttons by using the  button class  in the specific section of the grid layout I created.
 
 Once the layout was ready and the visuals were in place, I started with the actual game mechanics. This was where things got a bit tricky because while I had a clear vision of what I wanted the game to look like, translating that into functional code was a whole different story.
@@ -71,3 +73,5 @@ I also used some background music using Howler.js and created a mute button. It 
 By the end, Pastel Washing was a functional clicker game with a chill laundry theme. It was a fun project that taught me a lot about JavaScript, CSS, and why I should always have a backup plan for bugs. While it’s far from perfect, building it was more enjoyable than I thought it’d be.
 
 Would I choose a different name if I did it again? Absolutely. But for now, I’m happy with what I’ve created — bugs, confusing code, and all.            
+
+![picture of the most current version of the game](picofgame.png)
