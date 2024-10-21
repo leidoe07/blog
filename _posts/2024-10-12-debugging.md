@@ -1,10 +1,10 @@
 # Daring Debugging: Tackling Python Code Errors One Bug at a Time
-Debugging code is rarely a walk in the park. If you’ve just started with Python, you probably know how frustrating it can be to figure out why something doesn’t work. But when the light bulb finally flicks on and you realize what’s broken, it’s one of those sweet moments that makes the struggle worth it.
+Debugging code is never EVER a walk in the park. If you’ve just started with Python like me , you probably know how frustrating it can be to figure out why something doesn’t work. But when the light bulb in your brain finally flicks on and you realize what’s broken, it’s one of those sweet moments that makes the struggle worth it.
 
 For this project, I had to debug several Python snippets, find the issues, and fix them. Some were sneaky little bugs, but I managed to track them down and squash them. Let’s dive into the details!
 
 ## 1. Temperature Check Gone Wrong
-The task was to classify temperatures as "hot," "temperate," or "cold." Simple, right? Well, not when the code ignores an entire range of temperatures.
+The task was to classify temperatures as "hot," "temperate," or "cold" which would be simple if n the code didn't  ignore an entire range of temperatures.
 
 Original Code:
 
@@ -18,7 +18,7 @@ Original Code:
         print("It's cold")
 The Issue:
 
-This code completely ignores temperatures between 0 and 50. What are those, then? A glitch in the matrix?
+This code completely ignores temperatures between 0 and 50. 
 
 The Fix:
 
@@ -102,7 +102,7 @@ Original Code:
     print("Factorial of " + num + "is" + result)
 The Issue:
 
-The code tried to add a string ("Factorial of ") to a number (num), which Python doesn’t like. It also incorrectly calculated the factorial starting from 1.
+The code tried to add a string ("Factorial of ") to a number (num), which doesnt work in Python. It also incorrectly calculated the factorial starting from 1.
 
 The Fix:
 
@@ -138,7 +138,7 @@ Original Code:
             break
 The Issue:
 
-The code was comparing password to "incorrect_password", a hardcoded string instead of the correct_password variable. The condition for stopping attempts allowed more than three tries.
+The code was comparing password to "incorrect_password", a  string instead of the correct_password variable. The condition for stopping attempts allowed more than three tries.
 
 The Fix:
 
