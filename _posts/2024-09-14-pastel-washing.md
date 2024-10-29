@@ -1,3 +1,8 @@
+layout: post
+title: "Pastel Washing; Learning JavaScript to Make a Simple Game"
+date: 2024-09-14
+
+
 # Pastel Washing; Learning JavaScript to Make a Simple Game
 
 
