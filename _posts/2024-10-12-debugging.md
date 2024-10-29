@@ -1,5 +1,5 @@
 # Daring Debugging: Tackling Python Code Errors One Bug at a Time
-Debugging code is never EVER a walk in the park. If you’ve just started with Python like me , you probably know how frustrating it can be to figure out why something doesn’t work. But when the light bulb in your brain finally flicks on and you realize what’s broken, it’s one of those sweet moments that makes the struggle worth it.
+Debugging code is never EVER a walk in the park. If you’ve just started with Python like me , then you probably know how frustrating it can be to figure out why something doesn’t work. But when the light bulb in your brain finally switches on and you realize what’s broken, it’s one of those sweet moments that makes the struggle worth it.
 
 For this project, I had to debug several Python snippets, find the issues, and fix them. Let’s dive into the details!
 
@@ -31,7 +31,7 @@ I swapped out the last elif for an else, so that any temperature below 50 would 
         print("It's temperate")
     else:
         print("It's cold")
-## 2. Space Counting: Close, But No Cigar
+## 2. Space Counting
 Next up, the goal was to count how many spaces are in a given string. The original code had the right idea, but instead of checking for spaces, it was checking for empty strings.
 
 Original Code:
