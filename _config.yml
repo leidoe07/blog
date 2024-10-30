@@ -5,5 +5,5 @@ plugins:
 - jekyll-remote-theme
 
 collections:
-  authors:
+  author: Leilani Dore
     output: true
