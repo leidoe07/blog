@@ -1,3 +1,5 @@
+### Leilani Dore
+
 # Daring Debugging: Tackling Python Code Errors One Bug at a Time
 Debugging code is never EVER a walk in the park. If you’ve just started with Python like me , then you probably know how frustrating it can be to figure out why something doesn’t work. But when the light bulb in your brain finally switches on and you realize what’s broken, it’s one of those sweet moments that makes the struggle worth it.
 
