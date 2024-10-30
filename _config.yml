@@ -6,4 +6,4 @@ plugins:
 
 collections:
   author: Leilani Dore
-    output: true
+    output: True
