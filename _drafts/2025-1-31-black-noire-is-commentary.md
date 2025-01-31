@@ -1,52 +1,36 @@
-**Black Noir and the Social isssues it comments on**
-Black led horror  or Horror noir can be defined as  a horror genre  that focuses on the narratives of black and african american characters often commenting social, political, and economic issues (such as but not limit to racism)  by connecting  them to themes and aspects of horror. 
+Black Noir and the Social Issues It Comments On
+Black-led horror, or Horror Noir, focuses on narratives of Black and African American characters, often linking social, political, and economic issues (like racism) to horror themes. Some of my favorite horror films are in this genre and often make me think deeply about the issues they explore. Here are some that come to mind and how they connect to certain social issues:
 
-Some of my favorite horror films are in this  genre and often make me  think deeply about...
+Candyman (1992 & 2021)
+The Candyman Himself:
+In both films, Candyman isn’t just a ghost or spirit—he’s a manifestation of the trauma and violence experienced by the people of Cabrini-Green. In the original, he represents the pain and horror born from historical racial violence.
 
+Candyman (2021) – The Police Coercion Scene:
+Towards the end of the movie, a police officer blackmails a character with the threat of life in jail, coercing him into supporting the officer’s false version of a Black man’s shooting. This scene highlights the skewed justice system, especially in impoverished neighborhoods, and portrays Candyman as a necessary evil—a force responding to systemic injustice.
 
+Commentary on Police Violence:
+It’s hard to ignore how the film directly comments on police violence—twice showing Black men shot on sight. It’s a stark reminder of the real-world horror of police brutality, making the legend of Candyman feel tragically relevant.
 
+Nope (2022)
+Inspirations and Themes:
+Jordan Peele cited King Kong, Jurassic Park, Close Encounters of the Third Kind, Jaws, Signs, and The Wizard of Oz as inspirations. All these movies explore themes of wild animals, exploitation, and the consequences of expecting them to act according to human standards.
 
-Here some  that comes to mind aand how they connect to certain social issues
+The Horse Incident:
+At the beginning, a horse gets startled because a human forgets that horses don’t like direct eye contact. It’s a small moment but symbolizes how we often misinterpret or disrespect nature, expecting it to bend to our will.
 
-### Candyman
- The candy man  Himself  is    a   ghost or spirit summoned the subconscious of the people of cabrini green in reponse to the constant violence in the area.
+That Gosh Darn Monkey:
+The tragedy on the Gordy’s Home set happens because no one remembered that animals react to loud sounds—like the popping balloons that triggered the chimpanzee’s freakout.
 
+Jean Jacket:
+Jupe tries to exploit the large, unknown being in the sky as his new attraction without understanding it—much like he didn’t learn his lesson from the Gordy incident. It’s a critique of how the entertainment industry exploits animals (and people) for spectacle, ignoring the inherent dangers.
 
- The original
+Two Distant Strangers (2020)
+Endless Loop of Violence:
+The film shows how Black people are taught to interact with police officers just to survive encounters. The main character tries everything—staying home, avoiding the officer, even negotiating—but he still dies every time.
 
- Candyman 2021
- Also towards the end of the movie a police officer blackmails a character with jail for life so coerced into going with his false story of what happened in one of the blackman shootings scenes.  This display of the skewed cop system often seen in impoverish neighborhoods is what allowed the movie to portray the candyman as a neccessary evil at the end of the movie
+Systemic Racism as Inescapable Horror:
+This film painfully illustrates that systemic racism isn’t something individuals can avoid or outsmart. It’s ingrained in society, and no amount of compliance can guarantee safety.
 
-
-
-
-Note; it can also be  considered a commentary on police violences consiering a black man is shot on the spot in two scenes. Also 
- 
-
-
-### Nope
-
-Jordan Peele cited King Kong (1933), Jurassic Park (1993), Close Encounters of the Third Kind (1977), Jaws (1975), Signs (2002), and The Wizard of Oz (1939) as his main inspirations. Palmer and Kaluuya joined in February 2021.
-all off these movies have some themes of  wild animals, exploitation of them or consequences of expectaing them to act according to societie's standards asif they or human 
-
-The horse at the begining 
-a human forgot that horses dont like eye contact and caused the horse to startle
-
-
-That gosh darn monkey
-
-not a single person in that room remembered that  animals   reacted  to loud sounds  and popped balloons, causing the monkey's freak out.
-
-Jean Jacket
-Jupe didnt learn his lesson the first time and tried to  use the large unknown being in the sky that he barely saw and didnt even train as his newest exhibition
-
-
-
-### Two Distant Strangers
-
-
-
-The film portrayed the ways that Black people are taught to interact with police officers, in order to survive their encounters with them. For example, the main character of the film takes different actions during each and every one of his lives and still dies 100 times he tries, staying away from the office Visser staying in home, and even negotiating with the ops officer, but still get killed.
-
-
+Final Thoughts:
+Black-led horror films aren’t just about scares—they’re about truth-telling. They force us to confront real horrors like systemic racism and exploitation, using the genre to amplify voices and stories that need to be heard.
 
